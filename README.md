@@ -17,8 +17,8 @@
 
 | Telegram Groups | Link |
 | :------: | :--: |
-|Kx Headquarter| [@KxHQ]() |
 |Support Group| [@MaximXGroup](https://telegram.dog/MaximXGroup) |
+|Kx Headquarter| [@KxHQ]() |
 
 <hr>
 
