@@ -13,14 +13,19 @@
 | Themes | [@MaximXTheme](https://telegram.dog/MaximXTheme) |
 | Wallpapers | [@MaximXWallpaper](https://telegram.dog/MaximXWallpaper) |
 
+<hr>
+
 | Telegram Groups | Link |
 | :------: | :--: |
-|Kx Headquarter||
-|Support Group||
+|Kx Headquarter| [@KxHQ]() |
+|Support Group| [@MaximXGroup](https://telegram.dog/MaximXGroup) |
+
+<hr>
 
 | Telegram Bots | Link |
 | :------: | :--: |
-| YouTube Bot||
-| Assistant Bot||
-| Group Bot |
-| Shikimori's Bot||
+| Izυɱi 和泉 | [@MaximXRobot](https://telegram.dog/MaximXRobot) |
+| YouTube Bot| [@YouTubeeXBot](https://telegram.dog/YouTubeeXBot) |
+| Assistant Bot| [@LisaXRobot](https://telegram.dog/LisaXRobot) |
+| Group Bot | [@MaximHelpBot](https://telegram.dog/MaximHelpBot) |
+| Shikimori's Bot| [@ShikimoriSan1Bot](https://telegram.dog/ShikimoriSan1Bot) |
