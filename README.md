@@ -29,3 +29,5 @@
 | Assistant Bot| [@LisaXRobot](https://telegram.dog/LisaXRobot) |
 | Group Bot | [@MaximHelpBot](https://telegram.dog/MaximHelpBot) |
 | Shikimori's Bot| [@ShikimoriSan1Bot](https://telegram.dog/ShikimoriSan1Bot) |
+
+<hr>
