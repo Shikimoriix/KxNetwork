@@ -26,7 +26,7 @@
 
 | Telegram Bots | Link |
 | :------: | :--: |
-| Izυɱi 和泉 | [@MaximXRobot](https://telegram.dog/MaximXRobot) |
+| Izυɱi 和泉 | [@MaximXRobot](https://telegram.dog/MaximXRobot) [<img src="https://github.com/TelegramOfficial/Premium/blob/main/assets/verified.png" width="12" height="auto">](https://github.com/TelegramOfficial) |
 | YouTube Bot| [@YouTubeeXBot](https://telegram.dog/YouTubeeXBot) |
 | Assistant Bot| [@LisaXRobot](https://telegram.dog/LisaXRobot) |
 | Group Bot | [@MaximHelpBot](https://telegram.dog/MaximHelpBot) |
