@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ikx7a/Network/blob/main/Resources/Cover.png">
+[<img src="https://github.com/ikx7a/Network/blob/main/Resources/Cover.png">](https://github.com/ikx7a)
 
 <b> Welcome To Kx Network </b>
 
